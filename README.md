@@ -11,4 +11,4 @@ Curso voltado para os conceitos basicos do javascript
 
 ## link do curso: https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
 
-## Status: Em andamento.
+## Status: Concluído.
